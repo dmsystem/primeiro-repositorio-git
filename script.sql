@@ -1,1 +1,1 @@
-Select * from
+Select * from pedidos
